@@ -1,86 +1,57 @@
 ---
 layout: page
-title: Privacy Policy – Calculadora IMC
+title: Política de Privacidade – Calculadora IMC
 ---
 
 # Política de Privacidade – Calculadora IMC
 
-**Última atualização:** 06 de agosto de 2024  
+**Última atualização:** 26 de fevereiro de 2026  
 **Controlador:** FREITAS E SILVA DESENVOLVIMENTO DE SOFTWARES LTDA.
 
-A FREITAS E SILVA DESENVOLVIMENTO DE SOFTWARES LTDA. ("nós", "nosso" ou "empresa") é responsável pelo aplicativo móvel **Calculadora IMC** ("Aplicativo").
+A FREITAS E SILVA DESENVOLVIMENTO DE SOFTWARES LTDA. ("nós", "empresa") opera o aplicativo móvel **Calculadora IMC** ("Aplicativo").
 
 Esta Política de Privacidade descreve como tratamos informações quando você utiliza o Aplicativo.
 
 ---
 
-## 1. Coleta de Dados Pessoais
+## 1. Coleta de Dados
 
-O aplicativo **Calculadora IMC não coleta, armazena, compartilha ou processa dados pessoais identificáveis**.
+O aplicativo **não coleta, armazena, transmite ou processa dados pessoais**.
 
-Todas as operações realizadas dentro do aplicativo — incluindo o cálculo do Índice de Massa Corporal (IMC) — são processadas exclusivamente no dispositivo do usuário.
+Todas as funcionalidades do aplicativo, incluindo o cálculo do Índice de Massa Corporal (IMC), são executadas exclusivamente no dispositivo do usuário.
 
-Nenhuma informação é enviada para nossos servidores ou para terceiros.
-
----
-
-## 2. Informações Não Pessoais
-
-O Aplicativo pode coletar informações técnicas não identificáveis, tais como:
-
-- Dados anônimos de uso
-- Informações de diagnóstico
-- Estatísticas de desempenho
-- Dados técnicos do dispositivo
-
-Essas informações, quando coletadas, são utilizadas exclusivamente para:
-
-- Melhorar a experiência do usuário
-- Corrigir erros
-- Otimizar o desempenho do aplicativo
-
-Esses dados não permitem a identificação do usuário.
+Nenhuma informação é enviada para servidores próprios ou de terceiros.
 
 ---
 
-## 3. Cookies e Tecnologias de Rastreamento
+## 2. Armazenamento de Informações
 
-O aplicativo não utiliza cookies ou tecnologias de rastreamento para coleta de dados pessoais.
+O aplicativo não mantém banco de dados externo e não realiza sincronização com servidores.
 
----
-
-## 4. Compartilhamento de Informações
-
-Como não coletamos dados pessoais, não realizamos compartilhamento de informações com terceiros.
-
-Nenhum dado é transmitido para fora do dispositivo do usuário.
+Qualquer informação inserida pelo usuário é utilizada apenas localmente durante o uso do aplicativo.
 
 ---
 
-## 5. Segurança
+## 3. Compartilhamento de Dados
 
-Embora o aplicativo não colete dados pessoais, adotamos boas práticas de desenvolvimento e segurança para garantir a integridade e funcionamento adequado do aplicativo.
-
----
-
-## 6. Links para Sites de Terceiros
-
-O Aplicativo pode conter links externos. Não somos responsáveis pelas práticas de privacidade de sites de terceiros.
-
-Recomendamos que o usuário consulte as políticas de privacidade desses sites ao acessá-los.
+Não há compartilhamento de dados com terceiros, pois nenhum dado é coletado.
 
 ---
 
-## 7. Alterações nesta Política
+## 4. Segurança
 
-Podemos atualizar esta Política de Privacidade periodicamente.
-
-Quaisquer alterações serão publicadas nesta página, com atualização da data indicada no topo do documento.
+Como o aplicativo não coleta dados pessoais, não há armazenamento ou transmissão de informações sensíveis.
 
 ---
 
-## 8. Contato
+## 5. Alterações nesta Política
+
+Podemos atualizar esta Política periodicamente. A versão mais recente estará sempre disponível nesta página.
+
+---
+
+## 6. Contato
 
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
-📧 **E-mail:** erasmo.sf@gmail.com
+📧 erasmo.sf@gmail.com
