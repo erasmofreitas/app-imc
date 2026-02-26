@@ -1,11 +1,12 @@
 ---
 layout: page
-title: IMC App — Legal
+title: Calculadora IMC
 ---
 
-## Documentos
-- [Privacy Policy](privacy-policy)
-- [Terms of Use](terms)
-- [Support](support)
+# Calculadora IMC
 
-Última atualização: 2026-02-26
+## Documentos Legais
+
+- [Política de Privacidade](privacy-policy)
+
+© 2026 FREITAS E SILVA DESENVOLVIMENTO DE SOFTWARES LTDA.
